@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there  I'm Ayush 👋
 
-<!--
-**ayushjain27/ayushjain27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### I'm an engineering Student!!!
+- 🔭 I’m currently working on web development
+- 🌱 I’m currently learning more in frontend development, React framework and DSA
+- 👯 I’m looking to collaborate on open source projects 
+- 🤔 I’m looking for help with Frontend
+- 💬 Ask me about Java, Frontend, React
+- 📫 How to reach me: Linked in
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Loves to listening music
 -->
