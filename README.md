@@ -23,9 +23,9 @@
 
 ## 🏆 Github Status
 
-<img width="300" align="right" alt="coder.gif" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKCuyRUmzFVK2R_w4d_hrY6wGt6fJ8E22xQA&usqp=CAU" />
+<img width="300" align="right" alt="coder.gif" src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559" />
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/ayush jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush jain" height="30" width="40" /></a>
 </p>
