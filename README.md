@@ -23,8 +23,7 @@
 
 ## 🏆 Github Status
 
-<img width="300" align="right" alt="coder.gif" src="![image](https://user-images.githubusercontent.com/74196641/177004904-3452fb00-2a2c-4dc2-b1d1-dc3741cbf4de.png)
-" />
+<img width="300" align="right" alt="coder.gif" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
 ## Connect with me:
 <p align="left">
