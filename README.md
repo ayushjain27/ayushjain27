@@ -23,8 +23,7 @@
 ## 🏆 Github Status
 
 <img width="300" align="right" alt="coder.gif" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
-![Abhijay's github stats](https://github-readme-stats.vercel.app/api?username=Abhijay007&show_icons=true&hide_border=true&bg&theme=material-palenight)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushjain27&show_icons=true&locale=en" alt="ayushjain27" /></p>
 
 ## Connect with me:
 <p align="left">
