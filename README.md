@@ -23,7 +23,7 @@
 
 ## 🏆 Github Status
 
-<img width="300" align="right" alt="coder.gif" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2FGfSX-u7VGM4AAAAC%2Fcoding.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&tbnid=3KL3RFvTk03ieM&vet=12ahUKEwip3uHos9r4AhUHx6ACHaIxBDwQMyhIegUIARCgAQ..i&docid=wC1y6bJ6OPI5TM&w=498&h=277&q=code%20gif&ved=2ahUKEwip3uHos9r4AhUHx6ACHaIxBDwQMyhIegUIARCgAQ" />
+<img width="300" align="right" alt="coder.gif" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKCuyRUmzFVK2R_w4d_hrY6wGt6fJ8E22xQA&usqp=CAU" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
