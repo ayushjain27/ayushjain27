@@ -23,7 +23,8 @@
 
 ## 🏆 Github Status
 
-<img width="300" align="right" alt="coder.gif" src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559" />
+<img width="300" align="right" alt="coder.gif" src="![image](https://user-images.githubusercontent.com/74196641/177004904-3452fb00-2a2c-4dc2-b1d1-dc3741cbf4de.png)
+" />
 
 ## Connect with me:
 <p align="left">
